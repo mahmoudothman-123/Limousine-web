@@ -9,6 +9,6 @@ Once visitors land on your website, you want a quality copy to help convert them
 
 Consider writing separate sections or pages for each of the following areas that are relevant to your limo services:
 
-to and from Airport<br/>
-city to city 
-wedding
+to and from Airport <br/>
+city to city <br/>
+wedding <br/>
