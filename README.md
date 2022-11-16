@@ -8,7 +8,8 @@ My website, Limousine.com, offers you an opportunity to create substantial conte
 Once visitors land on your website, you want a quality copy to help convert them into qualified leads, that is, prospects who contact you for a quote or to book your services.
 
 Consider writing separate sections or pages for each of the following areas that are relevant to your limo services:
-
-to and from Airport <br/>
-city to city <br/>
-wedding <br/>
+<ul>
+ <li> to and from Airport </li>
+ <li> city to city </li>
+ <li>wedding</li> 
+</ul>
